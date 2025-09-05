@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ticket_001",
+    "eventId": 1,
+    "userId": "user_123",
+    "purchaseDate": "2025-01-15T10:30:00Z",
+    "quantity": 2,
+    "totalPrice": 179.98,
+    "status": "confirmed",
+    "seatNumbers": ["A-12", "A-13"],
+    "qrCode": "QR123456789",
+    "ticketType": "General Admission"
+  },
+  {
+    "id": "ticket_002",
+    "eventId": 3,
+    "userId": "user_123",
+    "purchaseDate": "2025-01-10T15:45:00Z",
+    "quantity": 1,
+    "totalPrice": 45.00,
+    "status": "confirmed",
+    "seatNumbers": ["B-5"],
+    "qrCode": "QR987654321",
+    "ticketType": "Standard"
+  }
+]
